@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="dark_sky">Powered By: \nDark Sky</string>
+    <string name="weather_for">Weather for \n%1$s</string>
+</resources>
